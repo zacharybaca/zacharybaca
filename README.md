@@ -12,10 +12,20 @@
 ### 🔧 Tech Stack
 
 - 🌐 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+      ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+      ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+      ![NPM Downloads](https://img.shields.io/npm/d18m/mongodb?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB&labelColor=%2347A248&color=%2347A248)
+      ![NPM Downloads](https://img.shields.io/npm/d18m/mongoose?style=for-the-badge&logo=mongoose&logoColor=white&label=Mongoose&labelColor=%23F04D35&color=%23F04D35)
+  
+- 🪟  ![NPM Downloads](https://img.shields.io/npm/d18m/react?style=for-the-badge&logo=react&logoColor=black&label=ReactJS&labelColor=%2361DAFB&color=%2361DAFB)
+      ![NPM Downloads](https://img.shields.io/npm/d18m/angular?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=Angular&labelColor=red&color=red)
+
+      
+
+
+
 
 - ⚙️ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
