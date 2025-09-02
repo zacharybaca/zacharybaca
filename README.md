@@ -7,25 +7,31 @@
 
 ### 💡 About Me  
 
-I’m a **Full-Stack JavaScript Developer** who loves building intuitive, impactful applications.  
-From **MongoDB schemas** to **real-time WebSocket features**, I enjoy solving complex problems and continuously learning new tools.  
+I’m a **Full-Stack JavaScript Developer** passionate about building intuitive, impactful applications.  
+From designing **MongoDB schemas** to implementing **real-time WebSocket features**, I enjoy tackling complex problems and learning new technologies along the way.  
 
-- 🔭 Currently working on personal projects to sharpen my tech skills.  
-- 🌱 Always learning — especially around AI integrations and modern front-end frameworks.  
+- 🔭 Currently building personal projects to sharpen my skills.  
+- 🌱 Exploring AI integrations and modern front-end frameworks.  
 - 👯 Open to collaborating on exciting side projects or open-source contributions.  
-- 💬 Ask me about my favorite summer activity (hint: 🏕) and why I ❤️ coding.  
+- 💬 Ask me about my favorite summer activity (hint: 🏕) or why I ❤️ coding.  
 - 📫 Reach me at **bacazachary@icloud.com** or connect on [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/).  
 - 😄 Pronouns: He/Him/His  
+ 
 
 ---
 
 ### 🚀 Featured Projects  
 
-- [**Bug Tracker App**](https://github.com/zacharybaca/bug-tracker) – Full-stack MERN application with **real-time chat** and **AI-driven bug assignment**.  
-- [**No Dog Left Behind**](https://github.com/zacharybaca/no-dog-left-behind) – Dog adoption app built for a technical interview, with authentication, favorites, and breed search.  
-- [**AgentAssist**](https://github.com/zacharybaca/agent-assist) – Knowledge base tool with article creation, tagging, preview mode, and ReactQuill integration.  
+- [**Bug Tracker App**](https://github.com/zacharybaca/software-bug-tracker) – Full-stack MERN application with **real-time chat** and **AI-driven bug assignment**.  
+- [**No Dog Left Behind**](https://github.com/zacharybaca/no-dog-left-behind) – Dog adoption app built for a technical interview, featuring authentication, favorites, and breed search.  
+- [**AgentAssist**](https://github.com/zacharybaca/AgentAssist) – Knowledge base tool with article creation, tagging, preview mode, and ReactQuill integration.  
+- [**AI Chatbot**](https://github.com/zacharybaca/ai-chatbot) – Chatbot that answers general questions depending on whether a user is logged in. Designed to complement the Bug Tracker App.  
+- [**Meme Generator**](https://github.com/zacharybaca/meme-generator) – React app that fetches random memes via API. Users can customize with top/bottom text, save memes to a gallery, and edit or delete them for further customization.  
+- [**Name Badge**](https://github.com/zacharybaca/name-badge) – React app that generates a name badge from a validated form. Input validation ensures correct phone number formatting and character limits before submission.  
+- [**Ugly Things**](https://github.com/zacharybaca/ugly-things) – React app that lets users create “Ugly Things” via a validated form. Submissions display in a scrollable list, powered by a third-party API and managed with React Context API.  
 
 > 🔗 Explore more of my projects on [GitHub](https://github.com/zacharybaca).  
+
 
 ---
 
@@ -58,19 +64,18 @@ From **MongoDB schemas** to **real-time WebSocket features**, I enjoy solving co
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zacharybaca&show_icons=true&theme=radical" alt="Zach's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharybaca&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
+</p>  
 
 ---
 
 ### 🤝 Let’s Connect  
 
-- 📧 [Email Me](mailto:bacazachary@icloud.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/z46350/)  
-- 🌐 [Portfolio](https://zachary.contact)  
+- 📧 [Email](mailto:bacazachary@icloud.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/)  
+- 🌐 [Portfolio](https://www.zachary-baca.dev)  
 - 🎥 [Twitch](https://twitch.tv/zachthefullstacker)  
-
----
 
 <p align="center">
   <i>"Code is like camping — sometimes you’re debugging in the dark, but the sunrise is worth it."</i>
 </p>
+
