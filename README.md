@@ -14,7 +14,7 @@ From **MongoDB schemas** to **real-time WebSocket features**, I enjoy solving co
 - 🌱 Always learning — especially around AI integrations and modern front-end frameworks.  
 - 👯 Open to collaborating on exciting side projects or open-source contributions.  
 - 💬 Ask me about my favorite summer activity (hint: 🏕) and why I ❤️ coding.  
-- 📫 Reach me at **bacazachary@icloud.com** or connect on [LinkedIn](https://www.linkedin.com/in/z46350/).  
+- 📫 Reach me at **bacazachary@icloud.com** or connect on [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/).  
 - 😄 Pronouns: He/Him/His  
 
 ---
