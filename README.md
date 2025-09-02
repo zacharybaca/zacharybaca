@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:47A248,100:61DAFB&height=200&section=header&text=Zachary%20Baca&fontSize=50&fontColor=fff&animation=fadeI" />
+  <img src="./header-img.png" />
 </p>
 
 ---
