@@ -14,7 +14,7 @@ From designing **MongoDB schemas** to implementing **real-time WebSocket feature
 - 🌱 Exploring AI integrations and modern front-end frameworks.  
 - 👯 Open to collaborating on exciting side projects or open-source contributions.  
 - 💬 Ask me about my favorite summer activity (hint: 🏕) or why I ❤️ coding.  
-- 📫 Reach me at **bacazachary@icloud.com** or connect on [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/).  
+- 📫 Reach me at **thezachstack@pm.me** or connect on [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/).  
 - 😄 Pronouns: He/Him/His  
  
 
@@ -70,9 +70,9 @@ From designing **MongoDB schemas** to implementing **real-time WebSocket feature
 
 ### 🤝 Let’s Connect  
 
-- 📧 [Email](mailto:bacazachary@icloud.com)  
+- 📧 [Email](mailto:thezachstack@pm.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zacharyjordanbaca/)  
-- 🌐 [Portfolio](https://www.zachary-baca.dev)  
+- 🌐 [Portfolio](https://www.stackbyzach.dev)  
 - 🎥 [Twitch](https://twitch.tv/zachthefullstacker)  
 
 <p align="center">
