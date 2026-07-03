@@ -30,24 +30,20 @@ Full-Stack Software Engineer specializing in the **MERN** and **MEAN** stacks. I
 
 ### Featured Applications
 
+**Live demos and walkthroughs:** [stackbyzach.dev](https://www.stackbyzach.dev)
+
 #### [Nine2Five (The Breakroom)](https://github.com/zacharybaca/the-breakroom)
 Social networking platform for retail and customer-facing employees.
-- **Repository:** [the-breakroom](https://github.com/zacharybaca/the-breakroom)
-- **Live Demo:** [Portfolio Showcase](https://www.stackbyzach.dev)
 - Built with the MERN stack and **WebSockets** for real-time interaction.
 - Implemented robust authentication and persistent chat room state.
 
 #### [Job Jury](https://github.com/zacharybaca/job-jury)
 Web application for unbiased employer reviews and listings.
-- **Repository:** [job-jury](https://github.com/zacharybaca/job-jury)
-- **Live Demo:** [Portfolio Showcase](https://www.stackbyzach.dev)
 - Engineered watchlist functionality and dynamic profile logic.
 - Focused on UI/UX for high-density data visualization.
 
 #### [Bug Tracker App](https://github.com/zacharybaca/software-bug-tracker)
 Management tool for software development lifecycles.
-- **Repository:** [software-bug-tracker](https://github.com/zacharybaca/software-bug-tracker)
-- **Live Demo:** [Portfolio Showcase](https://www.stackbyzach.dev)
 - Integrated **AI-driven bug assignment** and real-time updates.
 - Managed complex relational data within a NoSQL structure.
 
